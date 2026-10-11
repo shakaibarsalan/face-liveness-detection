@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Collected samples and trained model (biometric data stays local)
+data/
+models/
+
+# Secrets and OS files
+.env
+.env.*
+.DS_Store
+Thumbs.db
